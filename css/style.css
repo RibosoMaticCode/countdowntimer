@@ -37,6 +37,7 @@ body{
 }
 .charts{
     display: flex;
+    flex-wrap: wrap;
 }
 .chart {
     position: relative;
